@@ -1,0 +1,8 @@
+C:\Users\ASUS\source\repos\Emlak.ConsoleApp\Emlak.ConsoleApp\bin\Debug\Emlak.ConsoleApp.exe.config
+C:\Users\ASUS\source\repos\Emlak.ConsoleApp\Emlak.ConsoleApp\bin\Debug\Emlak.ConsoleApp.exe
+C:\Users\ASUS\source\repos\Emlak.ConsoleApp\Emlak.ConsoleApp\bin\Debug\Emlak.ConsoleApp.pdb
+C:\Users\ASUS\source\repos\Emlak.ConsoleApp\Emlak.ConsoleApp\obj\Debug\Emlak.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Emlak.ConsoleApp\Emlak.ConsoleApp\obj\Debug\Emlak.ConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\Emlak.ConsoleApp\Emlak.ConsoleApp\obj\Debug\Emlak.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Emlak.ConsoleApp\Emlak.ConsoleApp\obj\Debug\Emlak.ConsoleApp.exe
+C:\Users\ASUS\source\repos\Emlak.ConsoleApp\Emlak.ConsoleApp\obj\Debug\Emlak.ConsoleApp.pdb

@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Emlak.ConsoleApp.Emlak" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAQAAAAAAAAAACAAAAgAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Emlak.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Emlak.ConsoleApp.Konut" Collapsed="true">
+    <Position X="3.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>Emlak.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Emlak.ConsoleApp.Villa" Collapsed="true">
+    <Position X="1.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Emlak.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Emlak.ConsoleApp.SatilikVilla" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Emlak.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Emlak.ConsoleApp.KiralikVilla" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Emlak.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Emlak.ConsoleApp.Arsa" Collapsed="true">
+    <Position X="10.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Emlak.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Emlak.ConsoleApp.Ev" Collapsed="true">
+    <Position X="6" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Emlak.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Emlak.ConsoleApp.SatilikEv" Collapsed="true">
+    <Position X="7.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Emlak.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Emlak.ConsoleApp.KiralikEv" Collapsed="true">
+    <Position X="5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Emlak.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Emlak.ConsoleApp.SatilikArsa" Collapsed="true">
+    <Position X="9.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Emlak.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Emlak.ConsoleApp.KiralikArsa" Collapsed="true">
+    <Position X="11.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Emlak.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Emlak.ConsoleApp.Musteri" Collapsed="true">
+    <Position X="16" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAICAAAAAAAAAAEAAAAAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Emlak.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Emlak.ConsoleApp.Adres" Collapsed="true">
+    <Position X="14.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEgAAAAAAAAAAAAAAYAAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Emlak.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
